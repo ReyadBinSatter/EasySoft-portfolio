@@ -1,0 +1,154 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+section{
+    height: 500px;
+    padding-bottom: 200px;
+    
+}
+h1{
+    font-size: 60px;
+    margin: 10px 0;
+}
+h2{
+    font-size: 50px;
+    margin: 10px 0;
+}
+h3{
+    font-size: 25px;
+}
+p{
+    font-size: 20px;
+}
+
+.txt-color{
+    color: #6957af;
+}
+.color-line{
+    border-left: 5px solid #6957af;
+}
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half img{
+    width: 70%;
+}
+.button{
+    text-decoration: none;
+    background-color:#6957af ;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 600;
+}
+.align{
+    margin-top: 10%;
+}
+h2 span{
+    color: #6957af;
+}
+.mission h2{
+    text-align: center;
+}
+.half-mission{
+    width: 20%;
+    height: 80%;
+    float: left;
+    margin-left: 7%;
+    padding: 2%;
+    border-radius: 10px;
+}
+.half-mission img{
+    width: 50%;
+}
+#mission{
+    background-color: wheat;
+}
+#vission{
+    background-color: turquoise;
+}
+#goals{
+    background-color: thistle;
+}
+.pic-half{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.pic-half img{
+    width: 100%;
+}
+.doc-half{
+    width: 50%;
+    float: left;
+    padding-left: 2%;
+    margin-left: 5%;
+}
+.bg-shape1{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 20%;
+    background-position: 2% 20%; 
+}
+
+.bg-shape2{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 20%;
+    background-position: 98% 70%; 
+}
+
+.half-box{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 3%;
+}
+.half-box h3{
+     color: #6957af;
+}
+.contact-box{
+    margin-top: 10%;
+}
+.box{
+    border: solid 2px #6957af;
+    border-radius: 10px;
+    height: 150px;
+    width: 150px;
+    float: left;
+    margin: 5%;
+    padding: 2%;
+}
+.box h2{
+    color: #6957af;
+}
+.box p{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+.foot{
+    background-color: black;
+    color: white;
+    margin: 0;
+    height: 150px;
+    text-align: center;
+}
+.ft{
+    color: #6957af;
+}
+.footer-element h3{
+    margin: 0;
+    padding-top: 40px;
+}
